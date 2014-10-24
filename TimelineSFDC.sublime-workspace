@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yay",
+				"yayPhones"
+			],
+			[
+				"maps",
+				"Maps"
+			],
+			[
+				"ped",
+				"pedList"
+			],
+			[
+				"_",
+				"Document__c"
+			],
+			[
+				"person",
+				"Person_Entity_Document__c"
+			],
+			[
+				"Account_",
+				"Account_Document__c"
+			],
+			[
+				"Ac",
+				"Account_Document__c"
+			],
+			[
+				"rtmget",
+				"rtmGetFrob"
+			],
+			[
+				"l",
+				"loadData"
+			],
+			[
+				"aut",
+				"auth_token"
+			],
+			[
+				"at",
+				"auth_url"
+			],
+			[
+				"fail",
+				"failCallback"
+			],
+			[
+				"fai",
+				"failCallback"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"user",
+				"user_fullname"
+			],
+			[
+				"user_",
+				"user_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"open",
+				"MavensMate: Open Project..."
+			],
+			[
+				"new pro",
+				"MavensMate: New Project..."
+			],
+			[
+				"open pr",
+				"MavensMate: Open Project..."
+			],
+			[
+				"new visual",
+				"MavensMate: New Visualforce Page"
+			],
+			[
+				"clean",
+				"MavensMate: Clean Project..."
+			],
+			[
+				"cl",
+				"MavensMate: Clean Project..."
+			],
+			[
+				"edit",
+				"MavensMate: Edit Project..."
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"instlal pac",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"cle",
+				"MavensMate: Clean Project..."
+			],
+			[
+				"clean ",
+				"MavensMate: Clean Project..."
+			],
+			[
+				"clea",
+				"MavensMate: Clean Project..."
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 54.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rogeramitchell/Dropbox/Active Projects/TimelineSFDC"
+	],
+	"file_history":
+	[
+		"/Users/rogeramitchell/Dropbox/Active Projects/TimelineJS/README.markdown",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/classes/LeadTriggerHandler.cls",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/pages/SendDS_BU_mail.page",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/classes/SendDSBUmailController.cls",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/classes/TrialPass.cls",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/classes/ContactTriggerHandler.cls",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/classes/OpportunityTriggerHandler.cls",
+		"/Users/rogeramitchell/Dropbox/Active Projects/EQX - Dev/src/pages/NewTrial.page",
+		"/Users/rogeramitchell/Downloads/urls.txt",
+		"/Users/rogeramitchell/Downloads/wineries_all.txt",
+		"/Users/rogeramitchell/Downloads/wineries_spreadsheet.txt",
+		"/Users/rogeramitchell/Downloads/maps2_response.html",
+		"/Users/rogeramitchell/Downloads/maps2.py",
+		"/Users/rogeramitchell/Downloads/how to use string find.txt",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Lynda/Python3 ET/02 Quickstart/forloop.py",
+		"/Users/rogeramitchell/Downloads/maps.py",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Lynda/Python3 ET/04 Syntax/syntax.py",
+		"/Users/rogeramitchell/Dropbox/Active Projects/PortAllo/yahoo_stock_history.py",
+		"/Users/rogeramitchell/Downloads/GoogleBookmarks.html",
+		"/Users/rogeramitchell/Downloads/wineries_html.txt",
+		"/Users/rogeramitchell/Downloads/wineres_list.txt",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Trialforce Master - WM/src/pages/SL_Multi_File_Upload_Account.page",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Trialforce Master - WM/src/objects/CWO__c.object",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Trialforce Master - WM/src/objects/CampaignMember.object",
+		"/Users/rogeramitchell/Dropbox/Active Projects/Trialforce Master - WM/src/package.xml",
+		"/Users/rogeramitchell/Desktop/glen-6-apex.txt",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/rogeramitchell/Desktop/SL_DEMO_HomePage.page",
+		"/Users/rogeramitchell/Dropbox/Active Projects/taskmilk/src/rtm.js",
+		"/Users/rogeramitchell/Downloads/basic/sample.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/IOU-app/README.md",
+		"/Users/rogeramitchell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rogeramitchell/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/rogeramitchell/Dropbox/Active Projects/force-navigator/app/scripts/popup.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/force-navigator/app/scripts/main.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/force-navigator/app/scripts/mousetrap.min.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/rtm-bar/src/js/md5.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/rtm-bar/src/js/jquery.js",
+		"/Users/rogeramitchell/Dropbox/Active Projects/taskmilk/src/jquery.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"account",
+			"Account",
+			"account",
+			"Account",
+			"contact",
+			"Contact",
+			"account",
+			"Account",
+			"account",
+			"Account",
+			"python",
+			"select",
+			"Select",
+			"select",
+			"Select",
+			"select",
+			"Select",
+			"select",
+			"updatedLeads",
+			"assignLeadsRoundRobin",
+			"TriggerOtherEmail",
+			"Contact__c",
+			"Opportunity",
+			"EventWrapper",
+			"Duration",
+			"duration",
+			"getDShtmltext",
+			"htmltxt",
+			":",
+			"epass_url",
+			"current_trial__c",
+			"'|",
+			"','",
+			"\\x26amp;",
+			"'},",
+			"'}],, actual_url:'",
+			"],, phones:[{number:'",
+			"',, addressLines:['",
+			"infoWindow:{title:'",
+			"'",
+			",'",
+			"'},",
+			"'}],, actual_url:'",
+			"'],, phones:[{number:'",
+			"',, addressLines:['",
+			"infoWindow:{title:'",
+			", ",
+			"'},",
+			"'}],, actual_url:'",
+			"],, phones:[{number:'",
+			"number",
+			"],, ",
+			"',, addressLines:['",
+			"infoWindow:{title:'",
+			"/A>",
+			"<DT><A HREF=\"",
+			"InfoWindow",
+			"infoWindow",
+			"InfoWindow",
+			"infoWindow",
+			"InfoWindow",
+			"infoWindow",
+			"InfoWindow",
+			"addressLines",
+			"phones",
+			"3530",
+			"stock",
+			"Stock",
+			"stock",
+			"&amp;",
+			"</A>",
+			"Client_Group__c",
+			"Client_Group",
+			"SL_",
+			"Sl_",
+			"SL_",
+			"Opportunity",
+			"Document",
+			"#",
+			"###",
+			"##",
+			"Task",
+			"Industry",
+			"to",
+			"Coverage",
+			"- ",
+			"api_sig",
+			"rtmSign",
+			"shared_secret",
+			"rtmSign",
+			"sfnav-search",
+			"token"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TimelineSFDC.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 106.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

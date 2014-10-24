@@ -1,0 +1,19 @@
+{
+    "username": "rogeramitchell@gmail.com.timelinesfdc", 
+    "environment": "developer", 
+    "project_name": "TimelineSFDC", 
+    "workspace": "/Users/rogeramitchell/Dropbox/Active Projects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "PK6XCHW6I7J0M4YCA40W39L63FWMKG7I", 
+    "metadata_container": "1dcj00000008ctMAAQ", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
